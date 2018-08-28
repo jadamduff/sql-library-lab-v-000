@@ -17,6 +17,7 @@ INSERT INTO books (title, year, series_id) VALUES
   ("The Fellowship of the Ring", "1954", 2),
   ("The Two Towers", "1954", 2),
   ("Return of the King", "1955", 2);
+  
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES
   ("Harry Potter", "The boy who lived.", "Wizard", 1, 1),
   ("Voldemort", "Kill Harry", "Zombie Wizard", 1, 1),
